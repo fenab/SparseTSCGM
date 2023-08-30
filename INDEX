@@ -1,0 +1,15 @@
+SparseTSCGM-package     Sparse Time Series Chain Graphical Models.
+mammary                 Microarray gene expression time course data for
+                        mammary gland development in mice
+plot.tscgm              Plot sparse.tscgm objects from fitting chain
+                        graphical models with vector autoregressive
+                        process of order 2.
+plot.tscgm.ar2          Plot sparse.tscgm objects from fitting chain
+                        graphical models with vector autoregressive
+                        process of order 2.
+print.tscgm             Print summary - S3 Method for Class
+                        'sparse.tscgm'.
+sim.data                Multivariate time series simulation with chain
+                        graphical models
+sparse.tscgm            Sparse time series chain graphical models
+summary.tscgm           Summary - S3 Method for Class 'sparse.tscgm'
